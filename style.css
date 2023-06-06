@@ -282,13 +282,13 @@ footer {
     }
 
     .res {
-        width: 1120px;
-        height: 500px;
+        width: 730px;
+        height: 200px;
         border-radius: 10px;
         margin: -15%;
     }
     .text1 {
-        font-size: 65px;
+        font-size: 28px;
     }
 
     .image1{
@@ -324,5 +324,14 @@ footer {
     }
     .hero__text {
         font-size: 50px;
+    }
+    .res {
+        width: 1120px;
+        height: 500px;
+        border-radius: 10px;
+        margin: -15%;
+    }
+    .text1 {
+        font-size: 65px;
     }
 }
